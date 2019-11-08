@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"Application","h":"","u":""},{"l":"AuthControllerAdvice","h":"","u":""},{"l":"GithubOrgMembershipService","h":"","u":""},{"l":"MembershipService","h":"","u":""},{"l":"WebController","h":"","u":""},{"l":"所有类","h":"","u":"allclasses-index.html"}]
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"hello","l":"Application"},{"p":"hello","l":"AuthControllerAdvice"},{"p":"hello","l":"GithubOrgMembershipService"},{"p":"hello","l":"MembershipService"},{"p":"hello","l":"WebController"}]
