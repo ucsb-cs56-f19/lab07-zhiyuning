@@ -12,6 +12,7 @@ import java.util.Map;
 import java.util.HashMap;
 
 import com.nimbusds.oauth2.sdk.client.ClientReadRequest;
+import hello.geojson.FeatureCollection;
 
 @Controller
 public class WebController {
