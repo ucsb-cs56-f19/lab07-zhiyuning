@@ -10,21 +10,17 @@
 
       <h1>Earthquake Search Results</h1>
 
-      <form action="#" th:action="@{/earthquakes/results}" th:object="${eqSearch}" method="get">
-        <table>
-	  <tr>
-	    <th>Distance (km)</th>
-            <td th:text="${eqSearch.distance}"></td>
-	  </tr>
-          <tr>
-	    <th>Minimum Magnitude</th>
-            <td th:text="${eqSearch.minmag}"></td>
-	  </tr>
-	</table>
-
-            <input type="submit" class="btn btn-primary" value="Search">
-        </form>
-
+      <table>
+            <tr>
+                <th>Distance (km)</th>
+                <td th:text="${eqSearch.distance}"></td>
+            </tr>
+            <tr>
+                <th>Minimum Magnitude</th>
+                <td th:text="${eqSearch.minmag}"></td>
+            </tr>
+        </table>
+	    
       <div th:replace="bootstrap/bootstrap_footer.html"></div>
     </div>
     <div th:replace="bootstrap/bootstrap_scripts.html"></div>
