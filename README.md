@@ -7,6 +7,9 @@ Link to my documentation web page: https://ucsb-cs56-f19.github.io/lab07-zhiyuni
 
 Link to my Heroku app: https://cs56-f19-lab07-zhiyuning.herokuapp.com/
 
+Link to my Travis CI page: https://travis-ci.org/ucsb-cs56-f19/lab07-zhiyuning/builds/616140109?utm_source=github_status&utm_medium=notification
+
+
 # Running on Localhost.
 
 1.  You *must first* configure a GitHub OAuth app for http://localhost:8080 and obtain the client-id and client-secret.
